@@ -1,0 +1,27 @@
+{
+  "name": "fullstackmooc2022-backend",
+  "version": "1.0.0",
+  "description": "phonebook-backend",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nihti/FullStackMOOC2022-backend.git"
+  },
+  "author": "Niko Lehtiniemi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nihti/FullStackMOOC2022-backend/issues"
+  },
+  "homepage": "https://github.com/nihti/FullStackMOOC2022-backend#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
